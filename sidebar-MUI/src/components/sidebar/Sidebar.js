@@ -51,7 +51,7 @@ export default function TemporaryDrawer({state, setState, toggleDrawer}) {
     <div>
       {['left'].map((anchor) => (
         <React.Fragment key={anchor}>
-          <Button >{anchor}</Button>
+
           <Drawer
             anchor={anchor}
             open={state[anchor]}
