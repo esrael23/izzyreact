@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.btn{
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: coral;
+  border: 0;
+
+}
+.count{
+  font-size: 70px;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
